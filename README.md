@@ -12,18 +12,19 @@ You should see `index.html`, `css`, `js`, and the other `.html` pages at the top
 
 ## Put it on GitHub Pages (click path, no code)
 
-1. Sign in at [github.com](https://github.com) and click **New repository**.
-2. Name it something like `sa-motorcycle-pathway`. Make it **Public**. Do not add a README (you already have one). Create it.
-3. On the empty repo page, click **uploading an existing file**.
-4. Drag every file and folder from this `public-site` folder onto the page. Commit.
-5. Click **Settings**, then **Pages** (left menu).
-6. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
-7. Branch: **main** (or **master**). Folder: **/ (root)**. Save.
-8. Wait one or two minutes. Refresh the Pages settings. GitHub will show an address like:
+Your repository is already created: [CG-67-R1/SA_pathways](https://github.com/CG-67-R1/SA_pathways).
 
-   `https://YOUR-USERNAME.github.io/sa-motorcycle-pathway/`
+1. Open **[this upload page](https://github.com/CG-67-R1/SA_pathways/upload/main)** while signed in as CG-67-R1.
+2. Drag every file and folder from this `public-site` folder onto that page. You must see `index.html` at the top, not inside another folder.
+3. Click **Commit changes**.
+4. Open **[Pages settings](https://github.com/CG-67-R1/SA_pathways/settings/pages)**.
+5. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
+6. Branch: **main**. Folder: **/ (root)**. Save.
+7. Wait one or two minutes. The public address will be:
 
-9. Share that address. It works on phones.
+   **https://cg-67-r1.github.io/SA_pathways/**
+
+8. Share that address. It works on phones.
 
 If the site shows a 404, wait another minute, then confirm `index.html` is in the repo root, not in a subfolder.
 
