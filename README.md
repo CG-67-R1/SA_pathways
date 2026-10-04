@@ -34,4 +34,6 @@ Double-click `index.html`, or (better) drag that file into a browser window. The
 
 ## What this site is
 
-Independent briefing, 1 October 2026. Not a government website. Please do not contact landowners, council or ministers unless the project lead has asked you to.
+Independent briefing, 4 October 2026. Not a government website. Please do not contact landowners, council or ministers unless the project lead has asked you to.
+
+New in this update: a Working group page (Project Apex history, named clubs, Brian Rosser as lead), the south-western car-park pad (770 × 270 m, 1,000+ parks remain), and club-cost figures from the 2026 state titles.
